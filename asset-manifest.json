@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.9d0934b1.css",
-    "main.js": "/your-repo-name/static/js/main.5477d3ba.js",
-    "static/js/453.b651c525.chunk.js": "/your-repo-name/static/js/453.b651c525.chunk.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.9d0934b1.css.map": "/your-repo-name/static/css/main.9d0934b1.css.map",
-    "main.5477d3ba.js.map": "/your-repo-name/static/js/main.5477d3ba.js.map",
-    "453.b651c525.chunk.js.map": "/your-repo-name/static/js/453.b651c525.chunk.js.map"
+    "main.css": "/RPS-Plus/static/css/main.9d0934b1.css",
+    "main.js": "/RPS-Plus/static/js/main.50930f46.js",
+    "static/js/453.b651c525.chunk.js": "/RPS-Plus/static/js/453.b651c525.chunk.js",
+    "index.html": "/RPS-Plus/index.html",
+    "main.9d0934b1.css.map": "/RPS-Plus/static/css/main.9d0934b1.css.map",
+    "main.50930f46.js.map": "/RPS-Plus/static/js/main.50930f46.js.map",
+    "453.b651c525.chunk.js.map": "/RPS-Plus/static/js/453.b651c525.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d0934b1.css",
-    "static/js/main.5477d3ba.js"
+    "static/js/main.50930f46.js"
   ]
 }
